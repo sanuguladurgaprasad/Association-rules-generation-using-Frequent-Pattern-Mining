@@ -12,6 +12,6 @@ Due to the large number of the generated association rules, for support values o
 
 Steps to run: 
 
-1)make fptminer
+>make fptminer
 
-2)./fptminer minsup minconf inputfile outputfile
+>./fptminer minsup minconf inputfile outputfile
