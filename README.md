@@ -1,4 +1,5 @@
 # Association-rules-generation-using-Frequent-Pattern-Mining
+Used FP-tree pattern mining algorithm
 program takes four parameters: (i) the minimum support, (ii) the minimum confidence, (iii) the name of the input file, and (iv) the name of the output file.
 The output format of each line will be as follows:
 LHS|RHS|SUPPORT|CONFIDENCE
